@@ -36,6 +36,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   sendbird_sdk: ^3.0.19
+  sendbird_chat_sdk: ^4.0.0
   dash_chat: ^1.1.16
   hexcolor: ^3.0.1
 

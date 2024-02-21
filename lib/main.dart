@@ -45,13 +45,13 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: _buildTheme(Brightness.dark),
       home: ChatScreen(
-        appId: '7FC4460A-B5B2-44F1-AEC1-3B0F3CE8A727',
-        userId: 'sendbird_desk_agent_id_3567144f-6469-474d-903a-e8c36076d40d',
+        appId: 'BC823AD1-FBEA-4F08-8F41-CF0D9D280FBF',
+        userId: '574621',
         otherUsers: ['1', '2', '3', '4'],
         openChannelUrl:
             'sendbird_open_channel_14092_bf4075fbb8f12dc0df3ccc5c653f027186ac9211',
-        apiToken: '9997a3ce8aa240846cc48fc63fd18ad94d5c16d4',
-        apiUrl: 'https://api-7FC4460A-B5B2-44F1-AEC1-3B0F3CE8A727.sendbird.com',
+        apiToken: 'f93b05ff359245af400aa805bafd2a091a173064',
+        apiUrl: 'https://api-BC823AD1-FBEA-4F08-8F41-CF0D9D280FBF.sendbird.com',
       ),
     );
   }

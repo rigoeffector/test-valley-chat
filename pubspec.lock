@@ -344,6 +344,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.7.3"
+  sendbird_chat_sdk:
+    dependency: "direct main"
+    description:
+      name: sendbird_chat_sdk
+      sha256: ce52a48d1cb87c95cde1a352d78a2d790bd9afa8bf8971837aabc7c72f6c27d8
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.1.0"
   sendbird_sdk:
     dependency: "direct main"
     description:
